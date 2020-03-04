@@ -1,0 +1,10 @@
+# PDFtoPrinter.exe: 9945464 bytes
+SHA256 (PDFtoPrinter.exe) = 544f006b1b9bf1668251fcc75b7d8e641d6fea87138ff30afdea7ec1aa537617
+# PDFtoPrinterSelect.exe : 9945464 bytes
+SHA256 (PDFtoPrinterSelect.exe) = 544f006b1b9bf1668251fcc75b7d8e641d6fea87138ff30afdea7ec1aa537617
+# wkhtmltoimage.exe : 29786112 bytes
+SHA256 (wkhtmltoimage.exe) = 2585084f07c72264533904ade6a4dd0aa90caa734c1acce2c492d8aa8c11fd2c
+# wkhtmltopdf.exe : 29837312 bytes
+SHA256 (wkhtmltopdf.exe) = 2928924dade43fe61147be631afa459a147b5c0764ccd62921cef49590b3fcb8
+# wkhtmltox.dll : 29702144 bytes
+SHA256 (wkhtmltox.dll) = 99df86248a02b529620108fa5835eaba6c92b50cae8efaf611837a2f52c9d92d
