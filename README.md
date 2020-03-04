@@ -25,7 +25,7 @@ These instructions does not cover installation of your printer. This app will se
 2. Edit in your settings at the configuration file holdslipprinter.ini.
     ```
     [DEFAULT]
-    mylocation = Library Name
+    mylocation = Li Ka Shing Library
     email = your_email@domain.edu.sg
     username = DOMAIN\userid
     password = secure_password
