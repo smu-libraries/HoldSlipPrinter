@@ -21,7 +21,7 @@ You have two options to choose from:
 
 ### Easy Way:
 These instructions does not cover installation of your printer. This app will send files to the default printer set on the operating system level. This will work with any printer you set as default. I'm using EPSON TM-T82
-1. Download the compiled version of [holdslipprinter.zip](https://github.com/RonBulaon/HoldSlipPrinter/raw/master/compiled/holdslipprinter.zip) and extract contents.
+1. Download the compiled version of [holdslipprinter.zip](https://github.com/smu-libraries/HoldSlipPrinter/blob/master/compiled/holdslipprinter.zip) and extract contents.
 2. Edit in your settings at the configuration file holdslipprinter.ini.
     ```
     [DEFAULT]
@@ -72,7 +72,7 @@ These instructions does not cover installation of your printer. This app will se
 Before compiling your own version follow the Easy Way instructions above. Then do the following:
 1. Clone this repository.
     ```
-    git clone ttps://github.com/RonBulaon/HoldSlipPrinter.git
+    git clone https://github.com/smu-libraries/HoldSlipPrinter.git
     ```
 2. Go to the downloaded repository's source folder and install the requirements.
     ```
@@ -86,7 +86,7 @@ Before compiling your own version follow the Easy Way instructions above. Then d
     ```
     pyinstaller --noconsole --nowindowed -F app.py
     ```
-4. PyInstaller will create a dist folder and you should be able to find app.exe inside. Copy app.exe and replace the file app.exe file you have from [holdslipprinter.zip](https://github.com/RonBulaon/HoldSlipPrinter/raw/master/compiled/holdslipprinter.zip).
+4. PyInstaller will create a dist folder and you should be able to find app.exe inside. Copy app.exe and replace the file app.exe file you have from [holdslipprinter.zip](https://github.com/smu-libraries/HoldSlipPrinter/blob/master/compiled/holdslipprinter.zip).
 
 ### Acknowldements :
 I have used [WK<html>TOPDF](https://wkhtmltopdf.org/downloads.html) to convert HTML files to PDF. Check their [github page here](https://github.com/wkhtmltopdf/wkhtmltopdf). For sending files to printer I've used [PDFtoPRinter](http://www.columbia.edu/~em36/pdftoprinter.html). This program will send PDFs to printer from a windows command line.
