@@ -68,6 +68,8 @@ These instructions does not cover installation of your printer. This app will se
 
       _Note : I did these settings for both scripts and the scripts assumes that the folders' location is at Program Files._
 
+6. Install the latest [Visual C++ Redistributable Packages](https://www.microsoft.com/en-sg/download/details.aspx?id=48145).
+
 ### Compile a copy:
 Before compiling your own version follow the Easy Way instructions above. Then do the following:
 1. Clone this repository.
